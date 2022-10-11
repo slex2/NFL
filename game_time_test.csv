@@ -1,0 +1,193 @@
+game_id,play_id,game_seconds_remaining,desc
+2017_01_ARI_DET,1,3600.0,GAME
+2017_01_ARI_DET,37,3600.0,2-K.Redfern kicks 65 yards from DET 35 to ARI 0. 33-K.Williams to ARI 23 for 23 yards (35-M.Killebrew).
+2017_01_ARI_DET,73,3594.0,(14:54) (Shotgun) 3-C.Palmer pass short right to 11-L.Fitzgerald to ARI 27 for 4 yards (28-Q.Diggs).
+2017_01_ARI_DET,97,3556.0,(14:16) 31-Da.Johnson up the middle to ARI 29 for 2 yards (94-E.Ansah).
+2017_01_ARI_DET,118,3514.0,"(13:34) (Shotgun) 3-C.Palmer pass short middle to 31-Da.Johnson to ARI 43 for 14 yards (27-G.Quin). FUMBLES (27-G.Quin), recovered by ARI-13-Ja.Brown at ARI 44. 13-Ja.Brown to ARI 44 for no gain (39-J.Agnew)."
+2017_01_ARI_DET,153,3471.0,(12:51) (Shotgun) 31-Da.Johnson left end to ARI 42 for -2 yards (69-A.Zettel).
+2017_01_ARI_DET,174,3433.0,"(12:13) 3-C.Palmer pass incomplete short right to 31-Da.Johnson (24-N.Lawson). Penalty on ARI-31-Da.Johnson, Offensive Pass Interference, declined."
+2017_01_ARI_DET,207,3428.0,(12:08) (Shotgun) 3-C.Palmer pass short left intended for 31-Da.Johnson INTERCEPTED by 32-T.Wilson at ARI 49. 32-T.Wilson to ARI 26 for 23 yards (74-D.Humphries).
+2017_01_ARI_DET,233,3420.0,(12:00) 21-A.Abdullah left end ran ob at ARI 21 for 5 yards (43-H.Reddick).
+2017_01_ARI_DET,254,3389.0,"(11:29) (Shotgun) 9-M.Stafford pass short middle intended for 15-G.Tate INTERCEPTED by 28-J.Bethel at ARI 18. 28-J.Bethel for 82 yards, TOUCHDOWN."
+2017_01_ARI_DET,276,3374.0,"4-P.Dawson extra point is GOOD, Center-46-A.Brewer, Holder-2-A.Lee."
+2017_01_ARI_DET,292,3374.0,4-P.Dawson kicks 68 yards from ARI 35 to DET -3. 36-D.Washington to DET 15 for 18 yards (26-B.Williams; 36-B.Baker).
+2017_01_ARI_DET,316,3368.0,(11:08) 21-A.Abdullah right end to DET 15 for no gain (56-K.Dansby).
+2017_01_ARI_DET,337,3329.0,"(10:29) (No Huddle, Shotgun) 9-M.Stafford pass short right to 21-A.Abdullah to DET 17 for 2 yards (41-A.Bethea)."
+2017_01_ARI_DET,361,3291.0,"(9:51) (No Huddle, Shotgun) 9-M.Stafford pass incomplete deep right to 19-K.Golladay (28-J.Bethel)."
+2017_01_ARI_DET,383,3282.0,"(9:42) 2-K.Redfern punts 50 yards to ARI 33, Center-48-D.Muhlbach. 33-K.Williams to ARI 33 for no gain."
+2017_01_ARI_DET,408,3273.0,(9:33) (Shotgun) 3-C.Palmer pass short right to 31-Da.Johnson to ARI 36 for 3 yards (40-J.Davis).
+2017_01_ARI_DET,432,3237.0,"(8:57) 31-Da.Johnson left tackle to ARI 42 for 6 yards (24-N.Lawson, 97-A.Spence). ARI-74-D.Humphries was injured during the play. He is Out."
+2017_01_ARI_DET,453,3217.0,(8:37) 31-Da.Johnson left tackle to ARI 42 for no gain (59-T.Whitehead; 90-C.Washington).
+2017_01_ARI_DET,478,3188.0,"(8:08) 2-A.Lee punts 41 yards to DET 17, Center-46-A.Brewer. 39-J.Agnew ran ob at DET 28 for 11 yards (27-T.Branch). PENALTY on DET-36-D.Washington, Unnecessary Roughness, 14 yards, enforced at DET 28."
+2017_01_ARI_DET,514,3176.0,(7:56) 9-M.Stafford sacked at DET 7 for -7 yards (55-C.Jones).
+2017_01_ARI_DET,533,3137.0,"(7:17) (No Huddle, Shotgun) 9-M.Stafford pass short left to 25-T.Riddick to DET 12 for 5 yards (41-A.Bethea)."
+2017_01_ARI_DET,557,3091.0,"(6:31) (No Huddle, Shotgun) 9-M.Stafford pass incomplete short left. PENALTY on DET-9-M.Stafford, Intentional Grounding, 9 yards, enforced at DET 12."
+2017_01_ARI_DET,590,3081.0,"(6:21) (Punt formation) 2-K.Redfern FUMBLES (Aborted) at DET -8, and recovers at DET -8. 2-K.Redfern pushed ob at DET 13 for 21 yards (80-I.Momah)."
+2017_01_ARI_DET,624,3072.0,(6:12) 31-Da.Johnson right tackle to DET 12 for 1 yard (27-G.Quin; 98-J.Ledbetter).
+2017_01_ARI_DET,661,3032.0,(5:32) 31-Da.Johnson right end to DET 11 for 1 yard (32-T.Wilson).
+2017_01_ARI_DET,694,2989.0,(4:49) (Shotgun) 3-C.Palmer pass incomplete short middle to 11-L.Fitzgerald (28-Q.Diggs).
+2017_01_ARI_DET,716,2980.0,"(4:40) 4-P.Dawson 29 yard field goal is GOOD, NULLIFIED by Penalty, Center-46-A.Brewer, Holder-2-A.Lee. PENALTY on DET-69-A.Zettel, Leverage, 6 yards, enforced at DET 11 - No Play."
+2017_01_ARI_DET,757,2976.0,(4:36) 3-C.Palmer pass short right to 31-Da.Johnson pushed ob at DET 3 for 2 yards (27-G.Quin) [90-C.Washington].
+2017_01_ARI_DET,781,2944.0,(4:04) (Shotgun) 31-Da.Johnson up the middle to DET 2 for 1 yard (69-A.Zettel).
+2017_01_ARI_DET,802,2902.0,(3:22) (Shotgun) 3-C.Palmer pass short right to 84-J.Gresham to DET 6 for -4 yards (35-M.Killebrew).
+2017_01_ARI_DET,826,2866.0,"(2:46) 4-P.Dawson 24 yard field goal is GOOD, Center-46-A.Brewer, Holder-2-A.Lee."
+2017_01_ARI_DET,851,2860.0,4-P.Dawson kicks 71 yards from ARI 35 to DET -6. 36-D.Washington to DET 7 for 13 yards (35-E.Penny).
+2017_01_ARI_DET,876,2855.0,(2:35) 21-A.Abdullah right tackle to DET 8 for 1 yard (32-T.Mathieu).
+2017_01_ARI_DET,897,2822.0,"(2:02) (No Huddle, Shotgun) 9-M.Stafford pass short right to 15-G.Tate to DET 15 for 7 yards (41-A.Bethea)."
+2017_01_ARI_DET,921,2778.0,"(1:18) (No Huddle, Shotgun) 9-M.Stafford pass short right to 25-T.Riddick to DET 17 for 2 yards (57-J.Bynes) [92-F.Rucker]."
+2017_01_ARI_DET,945,2746.0,(:46) (No Huddle) 25-T.Riddick right end to DET 16 for -1 yards (55-C.Jones).
+2017_01_ARI_DET,966,2724.0,"(:24) (No Huddle, Shotgun) 9-M.Stafford pass short right to 19-K.Golladay to DET 25 for 9 yards (57-J.Bynes)."
+2017_01_ARI_DET,990,2700.0,END QUARTER 1
+2017_01_ARI_DET,1007,2700.0,"(15:00) (Shotgun) PENALTY on DET-19-K.Golladay, False Start, 5 yards, enforced at DET 25 - No Play."
+2017_01_ARI_DET,1030,2700.0,"(15:00) (Shotgun) 9-M.Stafford pass deep middle to 15-G.Tate to DET 38 for 18 yards (27-T.Branch). Penalty on ARI-21-P.Peterson, Defensive Holding, declined."
+2017_01_ARI_DET,1065,2667.0,(14:27) (Shotgun) 21-A.Abdullah left tackle to DET 41 for 3 yards (56-K.Dansby).
+2017_01_ARI_DET,1086,2641.0,"(14:01) (No Huddle, Shotgun) 9-M.Stafford pass short middle to 15-G.Tate to DET 47 for 6 yards (43-H.Reddick)."
+2017_01_ARI_DET,1110,2596.0,"(13:16) (No Huddle, Shotgun) 9-M.Stafford pass short left to 25-T.Riddick to DET 46 for -1 yards (43-H.Reddick)."
+2017_01_ARI_DET,1134,2596.0,"(13:16) 5-M.Prater punts 32 yards to ARI 22, Center-48-D.Muhlbach, fair catch by 33-K.Williams."
+2017_01_ARI_DET,1157,2557.0,(12:37) 3-C.Palmer pass incomplete short left to 12-J.Brown.
+2017_01_ARI_DET,1179,2553.0,(12:33) 31-Da.Johnson left tackle to ARI 25 for 3 yards (97-A.Spence).
+2017_01_ARI_DET,1200,2513.0,(11:53) (Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald pushed ob at DET 42 for 33 yards (28-Q.Diggs).
+2017_01_ARI_DET,1224,2480.0,(11:20) 3-C.Palmer pass incomplete short right to 31-Da.Johnson (92-H.Ngata).
+2017_01_ARI_DET,1246,2474.0,"(11:14) 3-C.Palmer pass short left to 13-Ja.Brown pushed ob at DET 31 for 11 yards (31-D.Hayden). PENALTY on ARI-76-M.Iupati, Illegal Peelback, 15 yards, enforced at DET 42 - No Play."
+2017_01_ARI_DET,1281,2449.0,(10:49) (Shotgun) 3-C.Palmer pass deep middle intended for 12-J.Brown INTERCEPTED by 27-G.Quin at DET 33. 27-G.Quin to ARI 42 for 25 yards (84-J.Gresham).
+2017_01_ARI_DET,1307,2438.0,"(10:38) 21-A.Abdullah left end pushed ob at ARI 40 for 2 yards (44-M.Golden). ARI-44-M.Golden was injured during the play.  PENALTY on DET-76-T.Lang, Offensive Holding, 10 yards, enforced at ARI 42 - No Play."
+2017_01_ARI_DET,1342,2419.0,(10:19) (Shotgun) 21-A.Abdullah right tackle to ARI 47 for 5 yards (43-H.Reddick; 56-K.Dansby).
+2017_01_ARI_DET,1363,2387.0,"(9:47) (No Huddle, Shotgun) 9-M.Stafford pass short right to 21-A.Abdullah to ARI 44 for 3 yards (43-H.Reddick)."
+2017_01_ARI_DET,1387,2345.0,"(9:05) (No Huddle, Shotgun) 9-M.Stafford scrambles up the middle to ARI 29 for 15 yards (27-T.Branch)."
+2017_01_ARI_DET,1413,2299.0,"(8:19) (No Huddle, Shotgun) 36-D.Washington up the middle to ARI 24 for 5 yards (97-J.Mauro)."
+2017_01_ARI_DET,1434,2260.0,"(7:40) (No Huddle, Shotgun) 9-M.Stafford pass incomplete short middle to 13-T.Jones (41-A.Bethea)."
+2017_01_ARI_DET,1457,2253.0,"(7:33) (No Huddle, Shotgun) 9-M.Stafford pass short right to 85-E.Ebron to ARI 19 for 5 yards (27-T.Branch)."
+2017_01_ARI_DET,1481,2229.0,"(7:09) (No Huddle, Shotgun) 9-M.Stafford pass short middle to 15-G.Tate to ARI 13 for 6 yards (56-K.Dansby)."
+2017_01_ARI_DET,1505,2194.0,"(6:34) (No Huddle, Shotgun) 21-A.Abdullah right tackle to ARI 10 for 3 yards (43-H.Reddick)."
+2017_01_ARI_DET,1526,2150.0,(5:50) 79-A.Barrett reported in as eligible.  36-D.Washington right end to ARI 4 for 6 yards (43-H.Reddick).
+2017_01_ARI_DET,1549,2109.0,"(5:09) (No Huddle, Shotgun) 21-A.Abdullah left tackle to ARI 6 for -2 yards (55-C.Jones)."
+2017_01_ARI_DET,1570,2070.0,"(4:30) (No Huddle, Shotgun) 9-M.Stafford pass short left to 11-M.Jones for 6 yards, TOUCHDOWN."
+2017_01_ARI_DET,1590,2062.0,(Kick formation) TWO-POINT CONVERSION ATTEMPT. 14-J.Rudock rushes right end. ATTEMPT FAILS.
+2017_01_ARI_DET,1611,2062.0,5-M.Prater kicks 68 yards from DET 35 to ARI -3. 33-K.Williams to ARI 20 for 23 yards (45-Ch.Washington).
+2017_01_ARI_DET,1633,2057.0,"(4:17) 3-C.Palmer pass short left intended for 11-L.Fitzgerald INTERCEPTED by 28-Q.Diggs at ARI 29. 28-Q.Diggs ran ob at ARI 14 for 15 yards (84-J.Gresham). The Replay Official reviewed the pass interception ruling, and the play was REVERSED. 3-C.Palmer pass incomplete short left to 11-L.Fitzgerald."
+2017_01_ARI_DET,1699,2055.0,(4:15) (Shotgun) 3-C.Palmer pass incomplete deep left to 11-L.Fitzgerald.
+2017_01_ARI_DET,1725,2050.0,(4:10) (Shotgun) 3-C.Palmer pass incomplete deep left.
+2017_01_ARI_DET,1747,2040.0,"(4:00) 2-A.Lee punts 42 yards to DET 38, Center-46-A.Brewer, out of bounds."
+2017_01_ARI_DET,1769,2034.0,(3:54) 21-A.Abdullah left end to DET 34 for -4 yards (92-F.Rucker).
+2017_01_ARI_DET,1790,1995.0,(3:15) (Shotgun) 9-M.Stafford pass short right to 15-G.Tate to DET 39 for 5 yards (57-J.Bynes).
+2017_01_ARI_DET,1814,1951.0,"(2:31) (No Huddle, Shotgun) 9-M.Stafford pass short right to 25-T.Riddick to DET 40 for 1 yard (27-T.Branch) [98-C.Peters]."
+2017_01_ARI_DET,1838,1921.0,"(2:01) 5-M.Prater punts 30 yards to ARI 30, Center-48-D.Muhlbach, downed by DET-54-S.Longa."
+2017_01_ARI_DET,1861,1913.0,Two-Minute Warning
+2017_01_ARI_DET,1878,1913.0,(1:53) (Shotgun) 3-C.Palmer pass incomplete short left to 11-L.Fitzgerald (28-Q.Diggs).
+2017_01_ARI_DET,1900,1909.0,(1:49) (Shotgun) 3-C.Palmer pass short right to 12-J.Brown to ARI 42 for 12 yards (24-N.Lawson).
+2017_01_ARI_DET,1924,1890.0,"(1:30) (No Huddle, Shotgun) 3-C.Palmer pass short right to 12-J.Brown ran ob at DET 47 for 11 yards."
+2017_01_ARI_DET,1958,1885.0,"(1:25) (No Huddle, Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald to DET 29 for 18 yards (27-G.Quin)."
+2017_01_ARI_DET,1987,1879.0,Timeout #1 by ARI at 01:19.
+2017_01_ARI_DET,2004,1879.0,"(1:19) (Shotgun) 3-C.Palmer pass incomplete short left to 13-Ja.Brown (24-N.Lawson). PENALTY on DET-24-N.Lawson, Defensive Pass Interference, 3 yards, enforced at DET 29 - No Play."
+2017_01_ARI_DET,2037,1876.0,(1:16) (Shotgun) 3-C.Palmer pass incomplete short right to 12-J.Brown.
+2017_01_ARI_DET,2059,1871.0,(1:11) (Shotgun) 31-Da.Johnson left end pushed ob at DET 23 for 3 yards (40-J.Davis).
+2017_01_ARI_DET,2081,1864.0,(1:04) (Shotgun) 3-C.Palmer pass short right to 12-J.Brown ran ob at DET 14 for 9 yards.
+2017_01_ARI_DET,2105,1859.0,Timeout #2 by ARI at 00:59.
+2017_01_ARI_DET,2122,1859.0,(:59) (Shotgun) 3-C.Palmer pass incomplete short middle to 84-J.Gresham.
+2017_01_ARI_DET,2144,1855.0,(:55) (Shotgun) 3-C.Palmer pass incomplete short middle to 11-L.Fitzgerald.
+2017_01_ARI_DET,2166,1851.0,(:51) (Shotgun) 3-C.Palmer pass incomplete short right to 12-J.Brown [98-J.Ledbetter].
+2017_01_ARI_DET,2188,1844.0,"(:44) 4-P.Dawson 32 yard field goal is No Good, Hit Left Upright, Center-46-A.Brewer, Holder-2-A.Lee."
+2017_01_ARI_DET,2208,1839.0,(:39) (Shotgun) 9-M.Stafford pass short middle to 25-T.Riddick to DET 35 for 13 yards (21-P.Peterson; 27-T.Branch).
+2017_01_ARI_DET,2232,1832.0,Timeout #1 by DET at 00:32.
+2017_01_ARI_DET,2249,1832.0,(:32) (Shotgun) 9-M.Stafford pass incomplete short left to 85-E.Ebron (27-T.Branch).
+2017_01_ARI_DET,2271,1828.0,(:28) (Shotgun) 9-M.Stafford pass incomplete short left to 19-K.Golladay.
+2017_01_ARI_DET,2293,1824.0,(:24) (Shotgun) 9-M.Stafford pass short middle to 15-G.Tate to ARI 46 for 19 yards (41-A.Bethea).
+2017_01_ARI_DET,2317,1817.0,Timeout #2 by DET at 00:17.
+2017_01_ARI_DET,2334,1817.0,(:17) (Shotgun) 9-M.Stafford pass incomplete short middle to 21-A.Abdullah [55-C.Jones].
+2017_01_ARI_DET,2356,1812.0,(:12) (Shotgun) 9-M.Stafford pass incomplete short middle to 13-T.Jones (27-T.Branch).
+2017_01_ARI_DET,2378,1808.0,(:08) (Shotgun) 9-M.Stafford pass short middle to 21-A.Abdullah to ARI 40 for 6 yards (56-K.Dansby).
+2017_01_ARI_DET,2402,1803.0,Timeout #3 by DET at 00:03.
+2017_01_ARI_DET,2419,1803.0,"(:03) 5-M.Prater 58 yard field goal is GOOD, Center-48-D.Muhlbach, Holder-14-J.Rudock."
+2017_01_ARI_DET,2438,1800.0,END QUARTER 2
+2017_01_ARI_DET,2462,1800.0,"4-P.Dawson kicks 65 yards from ARI 35 to end zone, Touchback."
+2017_01_ARI_DET,2481,1800.0,(15:00) (Shotgun) 36-D.Washington right tackle to DET 25 for no gain (98-C.Peters).
+2017_01_ARI_DET,2502,1766.0,(14:26) (No Huddle) 9-M.Stafford pass short right to 85-E.Ebron to DET 29 for 4 yards (57-J.Bynes).
+2017_01_ARI_DET,2526,1721.0,"(13:41) (No Huddle, Shotgun) 9-M.Stafford pass short middle to 15-G.Tate to DET 40 for 11 yards (27-T.Branch)."
+2017_01_ARI_DET,2550,1684.0,"(13:04) (No Huddle, Shotgun) 21-A.Abdullah right tackle to DET 42 for 2 yards (94-X.Williams)."
+2017_01_ARI_DET,2571,1644.0,"(12:24) (No Huddle, Shotgun) 9-M.Stafford pass short right to 19-K.Golladay to DET 47 for 5 yards (28-J.Bethel)."
+2017_01_ARI_DET,2595,1604.0,"(11:44) (No Huddle, Shotgun) 9-M.Stafford pass incomplete short left to 15-G.Tate (21-P.Peterson)."
+2017_01_ARI_DET,2617,1599.0,"(11:39) 5-M.Prater punts 47 yards to ARI 6, Center-48-D.Muhlbach, downed by DET-26-D.Carey."
+2017_01_ARI_DET,2640,1586.0,(11:26) 31-Da.Johnson left end ran ob at ARI 9 for 3 yards (59-T.Whitehead).
+2017_01_ARI_DET,2661,1553.0,(10:53) (Shotgun) 3-C.Palmer pass short left to 31-Da.Johnson to ARI 25 for 16 yards (31-D.Hayden) [59-T.Whitehead].
+2017_01_ARI_DET,2685,1512.0,(10:12) 33-K.Williams up the middle to ARI 29 for 4 yards (91-A.Robinson).
+2017_01_ARI_DET,2706,1470.0,"(9:30) 3-C.Palmer pass incomplete deep left to 14-J.Nelson. PENALTY on DET-32-T.Wilson, Unnecessary Roughness, 15 yards, enforced at ARI 29 - No Play. Penalty on DET-31-D.Hayden, Defensive Pass Interference, declined."
+2017_01_ARI_DET,2739,1463.0,(9:23) 12-J.Brown left end ran ob at DET 46 for 10 yards (32-T.Wilson).
+2017_01_ARI_DET,2760,1434.0,(8:54) 3-C.Palmer pass incomplete short left to 14-J.Nelson.
+2017_01_ARI_DET,2786,1429.0,(8:49) (Shotgun) 3-C.Palmer pass short left to 14-J.Nelson to DET 32 for 14 yards (31-D.Hayden).
+2017_01_ARI_DET,2810,1408.0,(8:28) (No Huddle) 3-C.Palmer pass short right to 12-J.Brown to DET 32 for no gain (23-D.Slay).
+2017_01_ARI_DET,2834,1366.0,(7:46) 3-C.Palmer pass short middle to 31-Da.Johnson to DET 24 for 8 yards (28-Q.Diggs).
+2017_01_ARI_DET,2858,1321.0,(7:01) (Shotgun) 3-C.Palmer pass short left to 11-L.Fitzgerald ran ob at DET 17 for 7 yards (40-J.Davis).
+2017_01_ARI_DET,2882,1279.0,"(6:19) 3-C.Palmer pass short middle to 84-J.Gresham for 17 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on ARI-84-J.Gresham, Offensive Holding, 10 yards, enforced at DET 17 - No Play."
+2017_01_ARI_DET,2913,1269.0,(6:09) 3-C.Palmer pass incomplete short left to 87-T.Niklas (35-M.Killebrew).
+2017_01_ARI_DET,2935,1264.0,(6:04) (Shotgun) 3-C.Palmer pass deep left to 31-Da.Johnson to DET 3 for 24 yards (27-G.Quin). ARI-31-Da.Johnson was injured during the play. His return is Questionable.
+2017_01_ARI_DET,2962,1242.0,"(5:42) 33-K.Williams up the middle for 3 yards, TOUCHDOWN."
+2017_01_ARI_DET,2979,1237.0,"4-P.Dawson extra point is GOOD, Center-46-A.Brewer, Holder-2-A.Lee."
+2017_01_ARI_DET,2995,1237.0,4-P.Dawson kicks 67 yards from ARI 35 to DET -2. 39-J.Agnew to DET 16 for 18 yards (30-R.Ford).
+2017_01_ARI_DET,3019,1232.0,(5:32) 9-M.Stafford pass deep right to 11-M.Jones pushed ob at DET 47 for 31 yards (27-T.Branch).
+2017_01_ARI_DET,3043,1201.0,"(5:01) (No Huddle, Shotgun) 21-A.Abdullah right tackle to DET 49 for 2 yards (44-M.Golden)."
+2017_01_ARI_DET,3064,1164.0,(4:24) (No Huddle) 9-M.Stafford pass incomplete short middle to 19-K.Golladay.
+2017_01_ARI_DET,3086,1159.0,"(4:19) (No Huddle, Shotgun) 9-M.Stafford pass incomplete deep right. ball thrown away"
+2017_01_ARI_DET,3112,1149.0,"(4:09) 5-M.Prater punts 30 yards to ARI 21, Center-48-D.Muhlbach, fair catch by 33-K.Williams. Penalty on DET-54-S.Longa, Unnecessary Roughness, offsetting. Penalty on ARI-96-K.Martin, Unnecessary Roughness, offsetting."
+2017_01_ARI_DET,3146,1143.0,"(4:03) 31-Da.Johnson left end to ARI 26 for 5 yards (91-A.Robinson). FUMBLES (91-A.Robinson), RECOVERED by DET-40-J.Davis at ARI 26. 40-J.Davis to ARI 10 for 16 yards (31-Da.Johnson)."
+2017_01_ARI_DET,3178,1132.0,(3:52) (Shotgun) 36-D.Washington left tackle to ARI 7 for 3 yards (97-J.Mauro).
+2017_01_ARI_DET,3199,1095.0,"(3:15) (Shotgun) 9-M.Stafford pass short middle to 25-T.Riddick for 7 yards, TOUCHDOWN. The Replay Official reviewed the runner was not down by contact ruling, and the play was Upheld. The ruling on the field was confirmed."
+2017_01_ARI_DET,3219,1087.0,TWO-POINT CONVERSION ATTEMPT. 9-M.Stafford pass to 19-K.Golladay is incomplete. ATTEMPT FAILS.
+2017_01_ARI_DET,3233,1087.0,"5-M.Prater kicks 65 yards from DET 35 to end zone, Touchback."
+2017_01_ARI_DET,3254,1087.0,(3:07) 3-C.Palmer pass short middle to 84-J.Gresham to ARI 33 for 8 yards (40-J.Davis).
+2017_01_ARI_DET,3278,1046.0,(2:26) 33-K.Williams left tackle to ARI 34 for 1 yard (79-A.Barrett; 59-T.Whitehead). DET-92-H.Ngata was injured during the play.
+2017_01_ARI_DET,3299,1008.0,(1:48) 33-K.Williams left tackle to ARI 35 for 1 yard (59-T.Whitehead).
+2017_01_ARI_DET,3324,961.0,"(1:01) PENALTY on ARI-68-J.Veldheer, False Start, 5 yards, enforced at ARI 35 - No Play."
+2017_01_ARI_DET,3347,948.0,(:48) 33-K.Williams up the middle to ARI 31 for 1 yard (32-T.Wilson).
+2017_01_ARI_DET,3368,904.0,(:04) 3-C.Palmer pass short left to 14-J.Nelson to ARI 39 for 8 yards (24-N.Lawson).
+2017_01_ARI_DET,3392,900.0,END QUARTER 3
+2017_01_ARI_DET,3409,900.0,(15:00) (Shotgun) 3-C.Palmer sacked at ARI 34 for -5 yards (69-A.Zettel).
+2017_01_ARI_DET,3428,869.0,"(14:29) 2-A.Lee punts 57 yards to DET 9, Center-46-A.Brewer. 39-J.Agnew to DET 33 for 24 yards (35-E.Penny)."
+2017_01_ARI_DET,3453,856.0,"(14:16) 15-G.Tate right end to DET 47 for 14 yards (32-T.Mathieu; 28-J.Bethel). PENALTY on DET-76-T.Lang, Illegal Block Above the Waist, 10 yards, enforced at DET 39."
+2017_01_ARI_DET,3485,821.0,(13:41) (Shotgun) 9-M.Stafford pass incomplete short left to 25-T.Riddick.
+2017_01_ARI_DET,3507,815.0,"(13:35) (No Huddle, Shotgun) 9-M.Stafford pass short left to 15-G.Tate to DET 33 for 4 yards (56-K.Dansby; 41-A.Bethea)."
+2017_01_ARI_DET,3531,773.0,"(12:53) (No Huddle, Shotgun) 9-M.Stafford pass deep right to 13-T.Jones to DET 49 for 16 yards (28-J.Bethel)."
+2017_01_ARI_DET,3555,726.0,Timeout #1 by DET at 12:06.
+2017_01_ARI_DET,3572,726.0,"(12:06) (Shotgun) 9-M.Stafford pass short right to 15-G.Tate to ARI 34 for 17 yards (32-T.Mathieu). Penalty on ARI-43-H.Reddick, Illegal Use of Hands, declined."
+2017_01_ARI_DET,3607,704.0,(11:44) 21-A.Abdullah right end to ARI 30 for 4 yards (27-T.Branch).
+2017_01_ARI_DET,3628,663.0,(11:03) (Shotgun) 9-M.Stafford pass deep left to 13-T.Jones ran ob at ARI 14 for 16 yards.
+2017_01_ARI_DET,3652,663.0,"(11:03) (No Huddle) 21-A.Abdullah left end to ARI 13 for 1 yard (27-T.Branch). PENALTY on ARI-98-C.Peters, Defensive Holding, 5 yards, enforced at ARI 13."
+2017_01_ARI_DET,3684,618.0,(10:18) (Shotgun) 21-A.Abdullah right end to ARI 10 for -2 yards (43-H.Reddick; 92-F.Rucker).
+2017_01_ARI_DET,3705,573.0,"(9:33) (No Huddle, Shotgun) 9-M.Stafford pass short left to 19-K.Golladay for 10 yards, TOUCHDOWN."
+2017_01_ARI_DET,3725,567.0,"TWO-POINT CONVERSION ATTEMPT. 9-M.Stafford pass to 11-M.Jones is incomplete. ATTEMPT FAILS. Penalty on DET-11-M.Jones, Offensive Pass Interference, declined."
+2017_01_ARI_DET,3757,567.0,"5-M.Prater kicks 65 yards from DET 35 to end zone, Touchback."
+2017_01_ARI_DET,3778,567.0,(9:27) (Shotgun) 3-C.Palmer pass short left to 38-A.Ellington to ARI 49 for 24 yards (40-J.Davis).
+2017_01_ARI_DET,3802,529.0,(8:49) 3-C.Palmer pass incomplete short middle to 87-T.Niklas (58-P.Worrilow).
+2017_01_ARI_DET,3824,523.0,(8:43) 3-C.Palmer pass short left to 33-K.Williams to DET 49 for 2 yards (59-T.Whitehead; 98-J.Ledbetter).
+2017_01_ARI_DET,3848,480.0,"(8:00) (Shotgun) 3-C.Palmer pass short middle to 38-A.Ellington to DET 43 for 6 yards (97-A.Spence) [35-M.Killebrew]. PENALTY on ARI-12-J.Brown, Offensive Pass Interference, 10 yards, enforced at DET 49 - No Play."
+2017_01_ARI_DET,3883,446.0,"(7:26) (Shotgun) 3-C.Palmer pass incomplete deep right to 11-L.Fitzgerald (23-D.Slay). Penalty on ARI-53-A.Shipley, Offensive Holding, declined."
+2017_01_ARI_DET,3916,438.0,"(7:18) 2-A.Lee punts 44 yards to DET 15, Center-46-A.Brewer. 39-J.Agnew ran ob at DET 28 for 13 yards (35-E.Penny)."
+2017_01_ARI_DET,3941,428.0,(7:08) (Shotgun) 21-A.Abdullah right tackle to DET 35 for 7 yards (28-J.Bethel).
+2017_01_ARI_DET,3962,392.0,(6:32) (No Huddle) 21-A.Abdullah left tackle to DET 40 for 5 yards (92-F.Rucker).
+2017_01_ARI_DET,3983,355.0,"(5:55) (No Huddle, Shotgun) 9-M.Stafford pass short left to 15-G.Tate to ARI 46 for 14 yards (27-T.Branch)."
+2017_01_ARI_DET,4007,307.0,(5:07) 15-G.Tate right end to ARI 45 for 1 yard (56-K.Dansby).
+2017_01_ARI_DET,4028,262.0,"(4:22) 9-M.Stafford pass deep middle to 19-K.Golladay for 45 yards, TOUCHDOWN."
+2017_01_ARI_DET,4048,253.0,"5-M.Prater extra point is GOOD, Center-48-D.Muhlbach, Holder-14-J.Rudock."
+2017_01_ARI_DET,4064,253.0,"5-M.Prater kicks 65 yards from DET 35 to end zone, Touchback."
+2017_01_ARI_DET,4085,253.0,"(4:13) (Shotgun) 3-C.Palmer pass short middle intended for 38-A.Ellington INTERCEPTED by 35-M.Killebrew [91-A.Robinson] at ARI 35. 35-M.Killebrew for 35 yards, TOUCHDOWN."
+2017_01_ARI_DET,4111,243.0,"5-M.Prater extra point is GOOD, Center-48-D.Muhlbach, Holder-14-J.Rudock."
+2017_01_ARI_DET,4127,243.0,"5-M.Prater kicks 65 yards from DET 35 to end zone, Touchback."
+2017_01_ARI_DET,4148,243.0,"(4:03) (Shotgun) 3-C.Palmer pass short middle to 84-J.Gresham to ARI 36 for 11 yards (40-J.Davis). PENALTY on DET-40-J.Davis, Unnecessary Roughness, 15 yards, enforced at ARI 36."
+2017_01_ARI_DET,4183,235.0,(3:55) (Shotgun) 3-C.Palmer pass short right to 38-A.Ellington to DET 38 for 11 yards (35-M.Killebrew).
+2017_01_ARI_DET,4207,211.0,"(3:31) (No Huddle, Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald to DET 31 for 7 yards (91-A.Robinson)."
+2017_01_ARI_DET,4231,187.0,"(3:07) (No Huddle, Shotgun) 3-C.Palmer pass incomplete deep right to 11-L.Fitzgerald (28-Q.Diggs) [90-C.Washington]."
+2017_01_ARI_DET,4253,180.0,"(3:00) (Shotgun) 3-C.Palmer pass short middle to 12-J.Brown to DET 20 for 11 yards (32-T.Wilson) [78-J.Valoaga]. PENALTY on ARI-76-M.Iupati, Offensive Holding, 10 yards, enforced at DET 31 - No Play."
+2017_01_ARI_DET,4298,172.0,(2:52) (Shotgun) 3-C.Palmer pass short left to 14-J.Nelson to DET 30 for 11 yards (31-D.Hayden) [78-J.Valoaga].
+2017_01_ARI_DET,4322,147.0,(2:27) (No Huddle) 3-C.Palmer up the middle to DET 28 for 2 yards (40-J.Davis).
+2017_01_ARI_DET,4343,143.0,Timeout #1 by ARI at 02:23.
+2017_01_ARI_DET,4360,143.0,(2:23) (Shotgun) 3-C.Palmer pass incomplete deep right to 12-J.Brown.
+2017_01_ARI_DET,4382,136.0,(2:16) (Shotgun) 3-C.Palmer pass short middle to 14-J.Nelson to DET 19 for 9 yards (40-J.Davis).
+2017_01_ARI_DET,4406,120.0,Two-Minute Warning
+2017_01_ARI_DET,4423,120.0,(2:00) (Shotgun) 3-C.Palmer pass short left to 11-L.Fitzgerald to DET 14 for 5 yards (40-J.Davis).
+2017_01_ARI_DET,4447,100.0,"(1:40) (No Huddle, Shotgun) 3-C.Palmer pass incomplete short middle to 87-T.Niklas [92-H.Ngata]. PENALTY on DET-40-J.Davis, Defensive Pass Interference, 13 yards, enforced at DET 14 - No Play."
+2017_01_ARI_DET,4480,98.0,"(1:38) (Shotgun) 3-C.Palmer pass short left to 14-J.Nelson for 1 yard, TOUCHDOWN."
+2017_01_ARI_DET,4500,93.0,TWO-POINT CONVERSION ATTEMPT. 3-C.Palmer pass to 12-J.Brown is incomplete. ATTEMPT FAILS.
+2017_01_ARI_DET,4514,93.0,"4-P.Dawson kicks onside 9 yards from ARI 35 to ARI 44, out of bounds."
+2017_01_ARI_DET,4546,93.0,(1:33) 36-D.Washington right tackle to ARI 38 for 6 yards (97-J.Mauro).
+2017_01_ARI_DET,4567,49.0,(:49) 36-D.Washington left tackle to ARI 36 for 2 yards (98-C.Peters).
+2017_01_ARI_DET,4588,18.0,(:18) 9-M.Stafford kneels to ARI 37 for -1 yards.
+2017_01_ARI_DET,4609,0.0,END GAME
